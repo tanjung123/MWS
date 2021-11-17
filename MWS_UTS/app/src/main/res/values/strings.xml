@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MWS_UTS</string>
+    <string name="appname">My Aplication</string>
+    <string name="appname1">Hello World Aplication</string>
+    <string name="utsmobile">UTS Mobile</string>
+    <string name="enternim">Enter nim</string>
+    <string name="nama">nama</string>
+    <string name="programstudi">Program Studi</string>
+    <string name="proses">PROSES</string>
+    <string name="selected_item">Seleted item</string>
+
+    <string-array name="Kelas">
+        <item>Kelas A</item>
+        <item>Kelas B</item>
+        <item>Kelas C</item>
+        <item>Kelas D</item>
+        <item>Kelas E</item>
+        <item>Kelas F</item>
+        <item>Kelas G</item>
+        <item>Kelas H</item>
+    </string-array>
+</resources>
